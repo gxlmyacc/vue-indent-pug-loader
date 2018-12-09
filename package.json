@@ -12,7 +12,8 @@
   },
   "keywords": [
     "vue-indent-pug-loader",
-    "file-loader",
+    "pug-loader",
+    "pug",
     "vue",
     "webpack"
   ],
